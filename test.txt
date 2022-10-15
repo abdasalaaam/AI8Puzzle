@@ -1,0 +1,15 @@
+move up
+move left
+move down
+move right
+move right
+printState
+random 100
+astar h1
+restart
+random 100
+beam 10
+restart
+random 100
+astar h2
+printState
